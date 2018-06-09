@@ -1,0 +1,16 @@
+create_parking_lot 4
+park 111 white
+status
+leave 1
+park 111 white
+park 222 yellow
+park 333 pink
+status
+park 444 blue
+park 555 red
+status
+leave 4
+leave 3
+status
+park 333 white
+status
