@@ -3,13 +3,17 @@ park 111 white
 status
 leave 1
 park 111 white
-park 222 yellow
+park 222 white
 park 333 pink
 status
+slot_number_for_registration_number 333
+registration_numbers_for_cars_with_color white
+slot_numbers_for_cars_with_color white
 park 444 blue
 park 555 red
 status
 leave 4
+slot_numbers_for_cars_with_color blue
 leave 3
 status
 park 333 white

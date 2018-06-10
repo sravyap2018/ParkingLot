@@ -1,15 +1,9 @@
 package com.here.parkinglot;
 
-import lombok.AccessLevel;
-import lombok.Getter;
-import lombok.Setter;
-
 public class Car {
 
-	//@Getter(AccessLevel.PUBLIC) @Setter(AccessLevel.PUBLIC)
 	private String registrationNumber;
 	
-	//@Getter(AccessLevel.PUBLIC) @Setter(AccessLevel.PUBLIC)
 	private String color;
 
 	public String getRegistrationNumber() {
