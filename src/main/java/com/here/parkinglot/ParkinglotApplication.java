@@ -22,6 +22,7 @@ public class ParkinglotApplication {
 		ParkingTicketGenerator parkingTicketGenerator = new ParkingTicketGenerator();
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		try {
+			System.out.println("Enter a command or file name or enter Exit to terminate:");
 			String input = reader.readLine();
 			String[] cmnds;
 			while (!input.equalsIgnoreCase(Constants.EXIT)) {

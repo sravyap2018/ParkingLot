@@ -1,0 +1,1 @@
+gradle build && gradle jar && java -jar build\libs\parkinglot-0.0.1-SNAPSHOT.jar
