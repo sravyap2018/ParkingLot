@@ -1,4 +1,4 @@
-package com.here.parkinglot;
+package com.here.entities;
 
 public class Car {
 

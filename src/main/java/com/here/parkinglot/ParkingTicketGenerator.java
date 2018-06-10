@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
+import com.here.entities.Car;
 import com.here.utils.Actions;
 
 public class ParkingTicketGenerator {
